@@ -1,0 +1,4 @@
+#Tue Jan 02 21:29:39 CST 2018
+base.0=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex

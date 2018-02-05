@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="588185749927663"
+    token="2950816770671724022"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1539" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="432" />
+    <task
+        name="verifier"
+        duration="77" />
+
+    <artifact
+        location="G:\Work\Project\Video_Encoder\SocketCameraH264\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="588185749927663"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="G:\Work\Project\Video_Encoder\SocketCameraH264\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

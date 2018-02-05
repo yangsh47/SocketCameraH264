@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Wed Dec 27 10:24:59 CST 2017
+2.base=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+5.file=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.set=ANDROID_RESOURCE
+3.base=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.set=DEX
+4.base=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=6
+0.file=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\setting.xml
+1.set=ANDROID_RESOURCE
+2.file=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.base=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

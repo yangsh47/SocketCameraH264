@@ -1,0 +1,4 @@
+#Wed Dec 27 10:24:59 CST 2017
+base.0=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=G\:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

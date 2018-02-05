@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Work\Project\Video_Encoder\SocketCameraH264\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="50c29a17a3e2a1f8044044219b447646e41d20d5">
+        <dex dex="G:\Work\Project\Video_Encoder\SocketCameraH264\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_68bca471e216612b40ac1a20e690146dab538c5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Work\Project\Video_Encoder\SocketCameraH264\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="489827f3e7fa7ce4f9d5541e8ba1598c3048f131">
+        <dex dex="G:\Work\Project\Video_Encoder\SocketCameraH264\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_42ca6536730fc7f3679c83067f0b06907ef03eda\classes.dex" />
+    </item>
+
+</items>

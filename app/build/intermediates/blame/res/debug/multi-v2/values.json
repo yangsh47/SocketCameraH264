@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "G:\\Work\\Project\\Video_Encoder\\SocketCameraH264\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "124,55",
+                        "endColumns": "45,68",
+                        "endOffsets": "165,119"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,68",
+                        "endOffsets": "96,165"
+                    }
+                }
+            ]
+        }
+    ]
+}
